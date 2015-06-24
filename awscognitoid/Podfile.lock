@@ -1,0 +1,73 @@
+PODS:
+  - AWSAutoScaling (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSCloudWatch (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSCognito (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSCore (2.2.0)
+  - AWSDynamoDB (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSEC2 (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSElasticLoadBalancing (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSKinesis (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSLambda (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSMachineLearning (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSMobileAnalytics (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSS3 (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSSES (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSSimpleDB (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSSNS (2.2.0):
+    - AWSCore (= 2.2.0)
+  - AWSSQS (2.2.0):
+    - AWSCore (= 2.2.0)
+  - UICKeyChainStore (2.0.6)
+
+DEPENDENCIES:
+  - AWSAutoScaling
+  - AWSCloudWatch
+  - AWSCognito
+  - AWSCore
+  - AWSDynamoDB
+  - AWSEC2
+  - AWSElasticLoadBalancing
+  - AWSKinesis
+  - AWSLambda
+  - AWSMachineLearning
+  - AWSMobileAnalytics
+  - AWSS3
+  - AWSSES
+  - AWSSimpleDB
+  - AWSSNS
+  - AWSSQS
+  - UICKeyChainStore
+
+SPEC CHECKSUMS:
+  AWSAutoScaling: f3da5982444dee41391a1cb0c1b9664d504c55b1
+  AWSCloudWatch: e35b6040087e15010d6957986aecbfd949b508fb
+  AWSCognito: d351a9e42e23747bb7e5bae37c62af38008d2bd0
+  AWSCore: 36712cbe827a50b81f1660349e0c202339797f23
+  AWSDynamoDB: d22680504585e4c7a344e3490459bcfd2972c41c
+  AWSEC2: cdee0bead09d5cb6a4619756010de1c3e12f7c18
+  AWSElasticLoadBalancing: bf299b22243ae46dcf58a207f41a0d66dc8a0e16
+  AWSKinesis: c06624c3e5dc542ca47128e5a008544b3d20e20a
+  AWSLambda: 6905d2128545689478514d6cbb31adbe6c7b24d8
+  AWSMachineLearning: 2f680b120dd5859765b88369947a223eb1863824
+  AWSMobileAnalytics: 213632654384eeb1af24a505d3b3299073ff9125
+  AWSS3: 5efcdff6010353fe53ef065be7760d60419c65b1
+  AWSSES: 84045d8e09afc7ca688d73aa77dd5badb1ff1317
+  AWSSimpleDB: f2b3e0cf1c5a8e6ddc7b921b6844fe17dd4489f9
+  AWSSNS: aec37737c542007a0f45017886b263d39ce2e0a9
+  AWSSQS: 08f547b79e13d68b18d4af230f78f109fb6d36c7
+  UICKeyChainStore: c5719c814e8bd69e74e4a0fc09daf8f4d6257a59
+
+COCOAPODS: 0.37.2
